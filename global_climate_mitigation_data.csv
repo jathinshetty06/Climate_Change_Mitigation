@@ -1,0 +1,16 @@
+Indicator,Description,Year,Value,Unit,Source
+Global CO2 Emissions,Total emissions from fossil fuels,2022,36.8,GtCO2,Global Carbon Project
+Renewable Energy Share,Share of electricity from renewables,2022,29.0,Percent,IEA
+Solar Capacity,Installed global solar PV capacity,2023,1185,GW,IRENA
+Wind Capacity,Installed global wind capacity,2023,906,GW,IRENA
+Electric Vehicles,Number of electric vehicles in operation,2023,40,Million,IEA
+Energy Efficiency Investment,Annual global investment,2022,560,Billion USD,IEA
+Afforestation Area,Global forest expansion efforts,2021,4.7,Million ha,FAO
+Reforestation Projects,Forest recovery project count,2021,135,Count,UNEP
+Methane Emissions Reduction,Reduction from waste-sector methane,2022,1.2,MtCH4,UNEP
+Carbon Pricing Coverage,Share of global emissions under carbon pricing,2023,23,Percent,World Bank
+CCS Operational Capacity,Operational CO2 capture capacity,2023,49,MtCO2 per year,Global CCS Institute
+Climate Finance,Funds committed for mitigation,2022,391,Billion USD,UNFCCC
+Green Hydrogen Production,Annual low-carbon hydrogen output,2023,1.4,Mt,IEA
+Global Temperature Rise,Increase above pre-industrial baseline,2023,1.2,°C,WMO
+Deforestation Rate,Annual global tree-cover loss,2022,3.75,Million ha,Global Forest Watch
